@@ -9,6 +9,7 @@ CREATE TABLE Escola (
     endereco VARCHAR(150)
 );
 
+
 CREATE TABLE Aluno (
     id_aluno INT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
