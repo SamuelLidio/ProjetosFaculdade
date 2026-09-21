@@ -106,7 +106,7 @@ BancoDeDadosEscolar/
 ### 2. Clonar o repositório
 
 ```bash
-[git clone URL_DO_REPOSITORIO](https://github.com/SamuelLidio/ProjetosFaculdade.git)
+git clone https://github.com/SamuelLidio/ProjetosFaculdade.git
 ```
 
 ### 3. Executar o script
