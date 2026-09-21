@@ -29,13 +29,13 @@ Caso algum requisito não seja atendido, o programa informa ao usuário qual reg
 2. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/SamuelLidio/ProjetosFaculdade.git
 ```
 
 3. Entre na pasta do projeto:
 
 ```bash
-cd seu-repositorio
+cd ProjetosFaculdade
 ```
 
 4. Execute o programa:
